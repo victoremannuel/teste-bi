@@ -48,14 +48,14 @@ def animation_demo() -> None:
     caixa5.plotly_chart(grafico_ranking_cidade, use_container_width=True)
 
 
-st.set_page_config(page_title="Animation Demo", page_icon="📹")
-st.markdown("# Animation Demo")
-st.sidebar.header("Animation Demo")
-st.write(
-    """This app shows how you can use Streamlit to build cool animations.
-It displays an animated fractal based on the the Julia Set. Use the slider
-to tune different parameters."""
-)
+# st.set_page_config(page_title="Animation Demo", page_icon="📹")
+# st.markdown("# Animation Demo")
+# st.sidebar.header("Animation Demo")
+# st.write(
+#     """This app shows how you can use Streamlit to build cool animations.
+# It displays an animated fractal based on the the Julia Set. Use the slider
+# to tune different parameters."""
+# )
 
 animation_demo()
 
