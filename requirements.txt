@@ -1,5 +1,5 @@
 altair
-plotly.express
+plotly-express
 numpy
 pandas
 pydeck
