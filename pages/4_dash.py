@@ -56,7 +56,7 @@ def animation_demo() -> None:
 # to tune different parameters."""
 # )
 
-animation_demo()
 st.set_page_config(layout="wide") #comando para usar a pagina toda
+animation_demo()
 
 # show_code(animation_demo)
