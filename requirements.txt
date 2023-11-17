@@ -1,6 +1,6 @@
 altair
-plotly-express
 numpy
 pandas
+plotly-express
 pydeck
 streamlit
