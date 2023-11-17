@@ -46,7 +46,7 @@ def animation_demo() -> None:
     caixa4.plotly_chart(grafico_tipo_pagamento, use_container_width=True)
     caixa5.plotly_chart(grafico_ranking_cidade, use_container_width=True)
 
-st.set_page_config(layout="wide") #comando para usar a pagina toda
+st.set_page_config(layout="centered") #comando para usar a pagina toda
 
 # st.set_page_config(page_title="Animation Demo", page_icon="📹")
 # st.markdown("# Animation Demo")
