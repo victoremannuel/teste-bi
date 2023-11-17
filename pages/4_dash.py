@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 from streamlit.hello.utils import show_code
 
-# st.set_page_config(layout="wide") #comando para usar a pagina toda
+st.set_page_config(layout="wide") #comando para usar a pagina toda
 
 def animation_demo() -> None:
 
