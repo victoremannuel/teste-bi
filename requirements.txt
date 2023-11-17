@@ -1,5 +1,5 @@
 altair
-plotly-express
+plotly==5.14.0
 numpy
 pandas
 pydeck
